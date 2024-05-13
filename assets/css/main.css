@@ -1551,7 +1551,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: #fe0303;
 	}
 
 	body, input, select, textarea {
@@ -1574,7 +1574,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #fc0505 !important;
 		}
 
 	strong, b {
@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #ff0000;
 		font-size: 3.5em;
 	}
 
@@ -1789,7 +1789,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #ff0000;
 		}
 
 	.select-wrapper {
